@@ -1,0 +1,24 @@
+body{
+    list-style-type: none;
+}
+
+.img_project{
+    width: 400px;
+    height: 200px;
+}
+
+.items{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    padding: 8em;
+}
+
+.item{
+    background-color: aliceblue;
+    border-radius: 10%;
+    padding: 2em;
+}
+
