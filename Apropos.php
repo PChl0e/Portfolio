@@ -20,7 +20,6 @@
                 <blockquote>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit, qui voluptatem necessitatibus placeat deleniti nihil, numquam animi minima reprehenderit beatae suscipit, consequatur eligendi provident exercitationem amet quas repellendus repellat dicta?</blockquote>
                 <h5>Chloé</h5>
                 <p>Lorem ipsum, dolor sit amet?</p>
-            
             </article>
         </div>
     </div>

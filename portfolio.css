@@ -2,9 +2,16 @@ body{
     list-style-type: none;
 }
 
+.image{
+    display: flex;
+    justify-content: center;
+}
 .img_project{
+    
     width: 400px;
     height: 200px;
+    border-radius: 10%;
+    text-align: center;
 }
 
 .items{
@@ -13,7 +20,7 @@ body{
     grid-template-columns: 1fr 1fr ;
     grid-column-gap: 50px;
     grid-row-gap: 50px;
-    padding: 8em;
+    padding: 10em;
 }
 
 .item{
@@ -22,3 +29,14 @@ body{
     padding: 2em;
 }
 
+h1{
+    text-align: center;
+}
+
+
+.img_logo{
+    max-width: 35px;
+    height: auto;
+    background-color: #ccc;
+    border-radius: 10%;
+}
