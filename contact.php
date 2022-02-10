@@ -1,3 +1,7 @@
+<?php
+    include('menu.php');
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -10,10 +14,11 @@
 <body>
     <div class="contact">
         <h1>Contact</h1>
-        <ion-icon name="call"></ion-icon><p></p>
-        <ion-icon name="mail"></ion-icon>
-        <ion-icon name="logo-linkedin"></ion-icon>
+        <ion-icon name="call"></ion-icon><p>06.80.81.56.20</p>
+        <ion-icon name="mail"></ion-icon><p><a href="mailto:chloepi89@gmail.com">chloepi89@gmail.com</a></p>
+        <a href=""><ion-icon name="logo-linkedin"></ion-icon></a><p>Linkedin</p>
     </div>
-    
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+
 </body>
 </html>

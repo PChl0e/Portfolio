@@ -18,7 +18,7 @@
                 <li class="nav_items"><a href="accueil.php" class="nav_links">Accueil</a></li>
                 <li class="nav_items"><a href="Apropos.php" class="nav_links">A propos de moi</a></li>
                 <li class="nav_items"><a href="portfolio.php" class="nav_links">Portfolio</a></li>
-                <li class="nav_items"><a href="#" class="nav_links">Contact</a></li>
+                <li class="nav_items"><a href="contact.php" class="nav_links">Contact</a></li>
             </ul>
         </nav>
         <ion-icon name="menu-outline" class="header_toggle" id="toggle-menu"></ion-icon>
