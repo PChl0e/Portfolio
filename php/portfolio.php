@@ -18,7 +18,7 @@
         <div class="items">
             <!--Projet 1-->
             <div class="item">
-                <h1>Stud'Intership</h1>
+                <h2>Stud'Intership</h2>
                 <div class="container">
                     <div class="slider">
                         <img class="active img-diapo1" src="../img/site/stConnexion.png" >
@@ -43,7 +43,7 @@
             </div>
             <!--Projet 2-->
             <div class="item">
-                <h1>Domaine Philippon Frères</h1>
+                <h2>Domaine Philippon Frères</h2>
                 <div class="container">
                     <div class="slider">
                         
@@ -70,7 +70,7 @@
             </div>
             <!--Projet 3-->
             <div class="item">
-                <h1>AGRRR'OBRANCHES</h1>
+                <h2>AGRRR'OBRANCHES</h2>
                 <div class="container">
                     <div class="slider">
                         <img class="active img-diapo3" src="../img/site/stConnexion.png" >
@@ -96,7 +96,7 @@
             </div>
             <!--Projet 4-->
             <div class="item">
-                <h1>Portfolio</h1>
+                <h2>Portfolio</h2>
                 <div class="container">
                     <div class="slider">
                         <img class="active img-diapo4" src="../img/site/stConnexion.png" >

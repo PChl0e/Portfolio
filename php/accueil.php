@@ -16,7 +16,7 @@
         <h2>Chloé, étudiante en DUT informatique et passionnée de web.</h2>
         <h3>Découvrez mes projets réalisés à travers ce portfolio.</h3>
         <div class="button">
-            <a href="#">En savoir plus</a>
+            <a href="portfolio.php">En savoir plus</a>
         </div>
     </div>
 </body>
