@@ -11,13 +11,16 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.list{
+    margin-top: -30px;
+}
+
 .image{
     display: flex;
     justify-content: center;
 }
 
 .img_project{
-    
     width: 400px;
     height: 200px;
     border-radius: 10%;
@@ -30,23 +33,35 @@ body{
     grid-template-columns: 1fr 1fr ;
     grid-column-gap: 50px;
     grid-row-gap: 50px;
-    padding: 5em;
+    padding: 10em;
 }
 
 .item{
-    background-color: rgba(238,215,183,0.7);
+    background-color: rgba(238,215,183,0.9);
     border-radius: 10%;
     padding: 2em;
+    max-width: 650px;
+    height: auto;
 }
 
 h1{
     text-align: center;
-    padding-top: 40px;
+    padding-top: 70px;
     font-size: 45px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1.5px;
     color: rgb(14, 14, 14);
+    color: whitesmoke;
+}
+
+h1:after{
+    content: '';
+    height: 5px;
+    width: 225px;
+    background-color: whitesmoke;
+    display: block;
+    margin: auto;
 }
 
 h2{
@@ -77,7 +92,7 @@ h2{
 
 /**SLIDER**/
 .container {
-    max-width: 600px;
+    max-width: 550px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -111,8 +126,26 @@ img.active {
     display: flex;
     justify-content: center;
 }
+
 .btn-nav {
     font-size: 50px;
     margin: 0 15px;
     cursor: pointer;
+}
+
+
+/**responsive**/
+@media screen and (max-width: 950px){
+    .items{
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr ;
+        grid-row-gap: 50px;
+        padding: 2em;
+        
+    }
+    .item{
+        margin: 30px 50px;
+    }
+
 }

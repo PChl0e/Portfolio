@@ -20,11 +20,11 @@
     <!--alert fin-->
     <div class="contact-section">
         <div class="contact-info">
-            <div><ion-icon name="location"></ion-icon>  12 rue Dom Edmond Martene, 21000 DIJON</div>
-            <div><ion-icon name="call"></ion-icon>  06.80.81.56.20</div>
-            <div><ion-icon name="mail"></ion-icon>  chloepi89@gmail.com</div>
-            <div><ion-icon name="logo-linkedin"></ion-icon><a href="">  Linkedin</a></div>
-            <div><ion-icon name="document-outline"></ion-icon><a href="../img/CV_PISCERI_CHLOE.pdf">  Curriculum vitae</a></div>
+            <div><i class="fa-solid fa-location-dot"></i>12 rue Dom Edmond Martene, 21000 DIJON</div>
+            <div><i class="fa-solid fa-phone"></i>06.80.81.56.20</div>
+            <div><i class="fa-solid fa-envelope"></i>chloepi89@gmail.com</div>
+            <div><i class="fa-brands fa-linkedin"></i><a href="https://fr.linkedin.com/in/chlo%C3%A9-pisceri-1b1a0a206">Linkedin</a></div>
+            <div><i class="fa-solid fa-file"></i><a href="../img/CV_PISCERI_CHLOE.pdf">Curriculum vitae</a></div>
         </div>
         <div class="contact-form">
             <h2>Contactez moi</h2>

@@ -10,7 +10,7 @@
 <body>
 <div class="menu-nav">
         <div class="logo">
-            <img src="" alt="logo">
+            <a href="accueil.php"><img src="../img/logomoi.png" alt="logo"></a>
         </div>
         <nav class="nav" id="nav-menu">
             <ion-icon name="close-outline" class="header_close" id="close-menu"></ion-icon>

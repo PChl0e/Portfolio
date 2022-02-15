@@ -24,6 +24,10 @@ body{
     line-height: 65px;
     padding-left: 50px;
     font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.712);
+    border-radius: 10%;
+    margin-right: 20px;
+    padding: 30px 20px 30px 30px;
 }
 
 .contact-info i{
@@ -32,9 +36,13 @@ body{
 
 }
 
+a:visited{
+    color: whitesmoke;
+}
+
 .contact-form{
-    max-width: 700px;
-    margin-right: 50px;
+    max-width: 670px;
+    margin-right: 40px;
 }
 
 .contact-info, .contact-form{
@@ -83,7 +91,7 @@ body{
 
 .contact-form .send-btn{
     float: right;
-    background: #093589;
+    background: #160989;
     color: #fff;
     border: none;
     width: 120px;
@@ -120,28 +128,30 @@ body{
     }
 }
 
+
+/*ALERT MAIL*/
 .alert-success{
     z-index: 1;
-    background: green;
+    background: rgba(60, 173, 79, 0.75);
     font-size: 18px;
     padding: 20px 40px;
     min-width: 420px;
     position: fixed;
     right: 0;
-    top: 10px;
-    border-left: 8px solid greenyellow;
+    top: 100px;
+    border-left: 8px solid rgb(68, 173, 79);
     border-radius: 4px;
 }
 
 .alert-error{
     z-index: 1;
-    background: red;
+    background: rgba(238, 119, 21, 0.75);
     font-size: 18px;
     padding: 20px 40px;
     min-width: 420px;
     position: fixed;
     right: 0;
-    top: 10px;
-    border-left: 8px solid lightcoral;
+    top: 100px;
+    border-left: 8px solid rgba(238, 119, 21);
     border-radius: 4px;
 }

@@ -111,7 +111,7 @@
                 </div>
                 <div class="text">
                     <br>
-                    <p>Site sur lequel vous vous trouvez. Projet réalisé seul.</p>
+                    <p>Site sur lequel vous vous trouvez qui répertorie tout les projets web auxquelles j'ai participé. Projet réalisé seul.</p>
                     <br>
                     <h5>Technologies :</h5> 
                     <div class="logo">
