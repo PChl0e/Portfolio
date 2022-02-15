@@ -27,7 +27,7 @@ ul{
     display: flex;
     background-color:#1f2425;
     justify-content: space-around;
-    padding: 2rem 0;
+    padding: 1.5rem 0;
     align-items: center;
 }
 
@@ -65,7 +65,7 @@ ul{
     position: relative;
     padding: 10px;
     color: rgb(218, 218, 218);
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 500;
     border-radius: 5px;
 }

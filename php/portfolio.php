@@ -21,7 +21,9 @@
                 <h2>Stud'Intership</h2>
                 <div class="container">
                     <div class="slider">
-                        <img class="active img-diapo1" src="../img/site/stConnexion.png" >
+                        <img class="active img-diapo1" src="../img/site/stAccueil.png" >
+                        <img src="../img/site/stInscripEntre.png" class="img-diapo1">
+                        <img class="img-diapo1" src="../img/site/stConnexion.png" >
                         <img src="../img/site/stContact.png" class="img-diapo1">
                     </div>
                     <div class="cont-btn">
@@ -46,9 +48,9 @@
                 <h2>Domaine Philippon Frères</h2>
                 <div class="container">
                     <div class="slider">
-                        
-                        <img src="../img/site/abContact.png" class="active img-diapo2" >
-                        <img src="../img/site/agAccueil.png" class="img-diapo2">
+                        <img src="../img/site/dpAccueil.png" class="active img-diapo2">
+                        <img src="../img/site/dpDomaine.png" class="img-diapo2" >
+                        <img src="../img/site/dpContact.png" class="img-diapo2">
                     </div>
                     <div class="cont-btn">
                         <div class="btn-nav left2">←</div>
@@ -57,7 +59,7 @@
                 </div>
                 <div class="text">
                     <br>
-                    <p>Site web pour un domaine viticole permettant de présenter les produits et de les réserver. Projet réalisé seule.</p>
+                    <p>Site web pour un domaine viticole permettant de présenter les produits et de les réserver (Projet en cours). Projet réalisé seule.</p>
                     <br>
                     <h5>Technologies : </h5>
                     <div class="logo">
@@ -73,10 +75,9 @@
                 <h2>AGRRR'OBRANCHES</h2>
                 <div class="container">
                     <div class="slider">
-                        <img class="active img-diapo3" src="../img/site/stConnexion.png" >
-                        <img src="../img/site/stContact.png" class="img-diapo3">
-                        <img src="../img/site/abContact.png" class="img-diapo3" >
-                        <img src="../img/site/agAccueil.png" class="img-diapo3">
+                        <img src="../img/site/agAccueil.png" class="active img-diapo3">
+                        <img src="../img/site/agTarif.png" class="img-diapo3">
+                        <img src="../img/site/agContact.png" class="img-diapo3">
                     </div>
                     <div class="cont-btn">
                         <div class="btn-nav left3">←</div>
@@ -99,10 +100,8 @@
                 <h2>Portfolio</h2>
                 <div class="container">
                     <div class="slider">
-                        <img class="active img-diapo4" src="../img/site/stConnexion.png" >
-                        <img src="../img/site/stContact.png" class="img-diapo4">
-                        <img src="../img/site/abContact.png" class="img-diapo4" >
-                        <img src="../img/site/agAccueil.png" class="img-diapo4">
+                        <img class="active img-diapo4" src="../img/site/ptAccueil.png" >
+                        <img src="../img/site/ptApropos.png" class="img-diapo4">
                     </div>
                     <div class="cont-btn">
                         <div class="btn-nav left4">←</div>
