@@ -29,7 +29,6 @@ body{
     border-radius: 10%;
     margin-right: 20px;
     padding: 30px 20px 30px 30px;
-    border: solid 1px black;
 }
 
 .contact-info i{
@@ -48,7 +47,6 @@ a:visited{
 .contact-form{
     max-width: 670px;
     margin-right: 40px;
-    border: solid 1px black;
 }
 
 .contact-info, .contact-form{
