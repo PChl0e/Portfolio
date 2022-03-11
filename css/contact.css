@@ -118,9 +118,11 @@ a:visited{
     .contact-section{
         flex-direction: column;
     }
-
+    .contact-info{
+        width: 400px;
+    }
     .contact-info, .contact-form{
-        margin: 30px 50px;
+        margin: 20px 1px;
     }
 
     .contact-form h2{
@@ -129,6 +131,10 @@ a:visited{
 
     .contact-form .text-box{
         width: 100%;
+    }
+
+    .contact-info div{
+        font-size: 18px;
     }
 }
 
@@ -145,6 +151,7 @@ a:visited{
     top: 100px;
     border-left: 8px solid rgb(68, 173, 79);
     border-radius: 4px;
+    
 }
 
 .alert-error{

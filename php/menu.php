@@ -10,7 +10,7 @@
 <body>
 <div class="menu-nav">
         <div class="logo">
-            <a href="accueil.php"><img src="../img/logomoi.png" alt="logo"></a>
+            <img src="../img/logomoi.png" alt="logo">
         </div>
         <nav class="nav" id="nav-menu">
             <ion-icon name="close-outline" class="header_close" id="close-menu"></ion-icon>
@@ -23,7 +23,9 @@
         </nav>
         <ion-icon name="menu-outline" class="header_toggle" id="toggle-menu"></ion-icon>
     </div>
-    
+    <script src="../js/menu.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     
 </body>
 </html>
