@@ -37,15 +37,15 @@
                     <br>
                     <h5>Technologies : </h5>
                     <div class="logo">
-                        <p class="icons"><i class="fa-brands fa-html5 fa-2x"></i></p>
-                        <p class="icons"><i class="fa-brands fa-css3-alt fa-2x"></i></p>
-                        <p class="icons"><i class="fa-brands fa-php fa-2x"></i></p>
+                        <i class="fa-brands fa-html5 fa-2x"></i>
+                        <i class="fa-brands fa-css3-alt fa-2x"></i>
+                        <i class="fa-brands fa-php fa-2x"></i>
                     </div>
                 </div>
             </div>
             <!--Projet 2-->
             <div class="item">
-                <h2>Domaine Philippon Frères</h2>
+                <h2>Domaine viticole</h2>
                 <div class="container">
                     <div class="slider">
                         <img src="../img/site/dpAccueil.png" class="active img-diapo2">

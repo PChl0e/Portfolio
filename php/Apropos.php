@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="wrapper">
-        <div class="testimonial">
+        <div class="informations">
             <article>
                 <h1>A propos de moi</h1>
                 <img src="../img/moi.png" alt="">
